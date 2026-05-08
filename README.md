@@ -5,11 +5,11 @@
 
 ## Background
 
-I originally set out to become a physician or medical researcher. That path diverged, but the instinct that drew me to it — wanting to understand what the data actually says before drawing a conclusion — never left. It followed me through three years of R&D and operations analytics at an electronics manufacturer, and into a graduate program in Management Science at UT Dallas.
+I originally set out to become a physician or medical researcher, studying biology at the University of California, Irvine. However, my path diverged, but the i still continue to want to research and that drew me to it, wanting to understand what the data actually says before drawing a conclusion, never left. It followed me through three years of R&D and operations analytics at an electronics manufacturer, and into a graduate program in Management Science at UT Dallas.
 
-This project is where those two trajectories meet. The Breast Cancer Wisconsin dataset is built from real fine needle aspirate (FNA) biopsies — each row represents measurements taken directly from a cell nucleus image. As someone with a B.S. in Biological Sciences, I can read these features not just as numbers but as physical properties of cells: how irregular the nucleus boundary is, how tightly packed the chromatin appears, how far individual cells deviate from the mean. That context changes what questions are worth asking.
+This project is where those two trajectories meet. The Breast Cancer Wisconsin dataset is built from real fine needle aspirate (FNA) biopsies, each row represents measurements taken directly from a cell nucleus image. As someone with a B.S. in Biological Sciences, I understand that these features not just as numbers but as physical properties of cells: how irregular the nucleus boundary is, how tightly packed the chromatin appears, how far individual cells deviate from the mean. That context changes what questions are worth asking.
 
-The goal here is not to build a classifier. It is to do what a good analyst does before any model gets built: understand the data, find the signal, and explain what it means in plain language.
+The goal here is not to build a classifier. It is to showcase how an analyst should and before any model gets built: understand the data, find the signal, and explain what it means in plain language.
 
 ---
 
