@@ -1,0 +1,5 @@
+measurement,mean_feature_ratio,worst_feature_ratio,worst_advantage
+area,2.114,2.545,0.431
+radius,1.438,1.58,0.142
+concavity,3.491,2.711,-0.78
+concave_points,3.421,2.448,-0.973

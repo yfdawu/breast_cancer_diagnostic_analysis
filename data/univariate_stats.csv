@@ -1,0 +1,3 @@
+diagnosis,avg_radius_mean,std_radius_mean,avg_texture_mean,std_texture_mean,avg_perimeter_mean,std_perimeter_mean,avg_area_mean,std_area_mean,avg_smoothness_mean,std_smoothness_mean,avg_compactness_mean,std_compactness_mean,avg_concavity_mean,std_concavity_mean,avg_concave_points_mean,std_concave_points_mean,avg_symmetry_mean,std_symmetry_mean,avg_fractal_dimension_mean,std_fractal_dimension_mean
+M,17.4628,3.1964,21.6049,3.7705,115.3654,21.803,978.3764,367.0692,0.1029,0.0126,0.1452,0.0539,0.1608,0.0748,0.088,0.0343,0.1929,0.0276,0.0627,0.0076
+B,12.1465,1.778,17.9148,3.9895,78.0754,11.7909,462.7902,134.0989,0.0925,0.0134,0.0801,0.0337,0.0461,0.0434,0.0257,0.0159,0.1742,0.0248,0.0629,0.0067

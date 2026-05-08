@@ -1,0 +1,13 @@
+feature,malignant_to_benign_ratio,feature_type
+concavity_mean,3.491,mean
+concave_points_mean,3.421,mean
+concavity_worst,2.711,worst
+area_worst,2.545,worst
+concave_points_worst,2.448,worst
+area_mean,2.114,mean
+perimeter_worst,1.625,worst
+radius_worst,1.58,worst
+perimeter_mean,1.478,mean
+radius_mean,1.438,mean
+fractal_dimension_worst,1.152,worst
+fractal_dimension_mean,0.997,mean
